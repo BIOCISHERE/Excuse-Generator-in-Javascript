@@ -14,11 +14,11 @@ window.onload = () => {
 };
 let generateExcuse = () => {
   let who = [
-    "The Dog",
-    "A Jogger",
+    "The Cat",
+    "The Cyclist ",
     "The Racoon",
     "The Driver",
-    "A Comedian",
+    "A Clown",
     "A Pincone"
   ];
   let action = ["Took my", "Threw my", "Yelled at my", "Stole my", "Bit my"];
